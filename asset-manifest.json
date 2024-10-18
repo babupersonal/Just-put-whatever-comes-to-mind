@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Just-put-whatever-comes-to-mind/static/css/main.6cf0258d.css",
-    "main.js": "/Just-put-whatever-comes-to-mind/static/js/main.05eb5adf.js",
-    "static/js/453.2684e94b.chunk.js": "/Just-put-whatever-comes-to-mind/static/js/453.2684e94b.chunk.js",
+    "main.js": "/Just-put-whatever-comes-to-mind/static/js/main.7ee5d0f9.js",
+    "static/js/453.cceca7b9.chunk.js": "/Just-put-whatever-comes-to-mind/static/js/453.cceca7b9.chunk.js",
     "index.html": "/Just-put-whatever-comes-to-mind/index.html",
     "main.6cf0258d.css.map": "/Just-put-whatever-comes-to-mind/static/css/main.6cf0258d.css.map",
-    "main.05eb5adf.js.map": "/Just-put-whatever-comes-to-mind/static/js/main.05eb5adf.js.map",
-    "453.2684e94b.chunk.js.map": "/Just-put-whatever-comes-to-mind/static/js/453.2684e94b.chunk.js.map"
+    "main.7ee5d0f9.js.map": "/Just-put-whatever-comes-to-mind/static/js/main.7ee5d0f9.js.map",
+    "453.cceca7b9.chunk.js.map": "/Just-put-whatever-comes-to-mind/static/js/453.cceca7b9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6cf0258d.css",
-    "static/js/main.05eb5adf.js"
+    "static/js/main.7ee5d0f9.js"
   ]
 }
