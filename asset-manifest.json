@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Just-put-whatever-comes-to-mind/static/css/main.6f4314ac.css",
+    "main.js": "/Just-put-whatever-comes-to-mind/static/js/main.4e492f82.js",
+    "static/js/453.2684e94b.chunk.js": "/Just-put-whatever-comes-to-mind/static/js/453.2684e94b.chunk.js",
+    "index.html": "/Just-put-whatever-comes-to-mind/index.html",
+    "main.6f4314ac.css.map": "/Just-put-whatever-comes-to-mind/static/css/main.6f4314ac.css.map",
+    "main.4e492f82.js.map": "/Just-put-whatever-comes-to-mind/static/js/main.4e492f82.js.map",
+    "453.2684e94b.chunk.js.map": "/Just-put-whatever-comes-to-mind/static/js/453.2684e94b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f4314ac.css",
+    "static/js/main.4e492f82.js"
+  ]
+}
