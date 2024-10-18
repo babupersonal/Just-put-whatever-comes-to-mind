@@ -39,8 +39,8 @@ function App() {
     <div className="container c">
       <div className='left-block c'>
         <div className='b c card1'>
-          <div className='circle'>
-            <img src={`${process.env.PUBLIC_URL}/img/5.jpg`} alt="example" />
+          <div className='circle c'>
+            <img src={`${process.env.PUBLIC_URL}/img/5.gif`} alt="example" />
           </div>
           <div className='title'>
             <h1>KAIXUAN HUANG</h1>

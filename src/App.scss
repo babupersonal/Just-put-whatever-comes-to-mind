@@ -43,9 +43,10 @@ img {
       background-color: #fff;
       margin-right: 2rem;
       overflow: hidden;
-
       img {
-        max-width: none;
+        width: 100%;
+        height: auto;
+        max-width: 100%;
       }
     }
   }
