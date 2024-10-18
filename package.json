@@ -2,7 +2,7 @@
   "name": "Just-put-whatever-comes-to-mind",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://babupersonal.github.io/Just-put-whatever-comes-to-mind/index.html",
+  "homepage": "https://babupersonal.github.io/Just-put-whatever-comes-to-mind",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
