@@ -63,7 +63,7 @@ function Item2() {
                 </div>
                 <div className='more'>
                     <div className='qrcode b c cd'>
-                        <img src={`${process.env.PUBLIC_URL}/img/qrcode.jpeg`}></img>
+                        <img src={`${process.env.PUBLIC_URL}/img/qrcode.jpeg`} alt="qrcode"></img>
                     </div>
                     <div className='contact b cd'>
                         <h3>聯絡方式</h3>
